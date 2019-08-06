@@ -244,3 +244,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/KopernicusExpansion/v15/Server/sqlite3/db.lock
